@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3929"
+   width="164"
+   height="105"
+   viewBox="0 0 164 105"
+   sodipodi:docname="panpan.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3935">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3933" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1304"
+     inkscape:window-height="746"
+     id="namedview3931"
+     showgrid="false"
+     inkscape:zoom="3.8456866"
+     inkscape:cx="69.997674"
+     inkscape:cy="36.578991"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3929"
+     inkscape:snap-path-clip="true" />
+  <g
+     id="g5677"
+     transform="rotate(-5,130.76179,61.457141)">
+    <title
+       id="title5679">CpanBack</title>
+    <path
+       sodipodi:nodetypes="ccscc"
+       inkscape:connector-curvature="0"
+       id="path5655-1"
+       d="m 134.22517,48.000269 19.6741,14.157997 c 0,0 7.29828,6.36566 -0.18386,11.583817 -4.21717,2.941117 -18.55843,-16.312441 -18.55843,-16.312441 z"
+       style="fill:#9d4922;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path5672"
+       d="m 141.94772,61.422786 c 0,0 13.02494,11.429785 13.60639,10.848336 3.30966,-3.309661 1.10322,-7.722544 1.10322,-7.722544 l -17.8354,-12.319297 c 0,0 6.61932,2.941922 6.98706,7.906414 0.12149,1.640091 -3.86127,1.287091 -3.86127,1.287091 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccscc"
+       inkscape:connector-curvature="0"
+       id="path5655"
+       d="m 134.22517,48.000269 19.6741,14.157997 c 0,0 7.29828,6.36566 -0.18386,11.583817 -4.21717,2.941117 -18.55843,-16.312441 -18.55843,-16.312441 z"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <path
+     style="fill:#5e2c12;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 127.66348,52.684552 24.11905,14.49036 c 0,0 6.11852,3.880412 1.4618,4.995723 -4.3927,1.052076 -7.68549,-1.172108 -7.68549,-1.172108 L 124.06727,58.430209 Z"
+     id="path5586"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsccc">
+    <title
+       id="title5588">CpanHandleDark</title>
+  </path>
+  <path
+     style="fill:#5e2c12;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 4.1238832,57.266066 c 0,0 13.6615818,12.707864 66.1493358,13.066535 50.225801,0.343214 64.516021,-13.2707 64.516021,-13.2707 0,0 -13.06653,-41.445422 -65.33268,-42.67041 C 18.380044,13.194385 4.1238832,57.266066 4.1238832,57.266066 Z"
+     id="path5578"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscsc">
+    <title
+       id="title5580">CpanBack</title>
+  </path>
+  <g
+     id="g5937">
+    <title
+       id="title5939">Bpan</title>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5779-0"
+       d="m 15.34877,70.156863 c 0,0 -3.67741,32.912747 54.425555,32.912747 58.102955,0 54.241685,-34.75145 54.241685,-34.75145 0,0 -0.36774,-50.196538 -55.712645,-50.012668 C 12.95846,18.489362 15.34877,70.156863 15.34877,70.156863 Z"
+       style="fill:#ecb966;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1;opacity:1" />
+    <path
+       sodipodi:nodetypes="cscsc"
+       inkscape:connector-curvature="0"
+       id="path5802"
+       d="m 15.34877,70.156863 c 0,0 18.667198,12.594855 53.786388,12.227115 35.119192,-0.367741 54.880852,-14.065818 54.880852,-14.065818 0,0 2.30275,37.23345 -55.616333,35.76249 C 10.480595,102.60969 15.34877,70.156863 15.34877,70.156863 Z"
+       style="opacity:1;fill:#fff5ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g5829">
+      <title
+         id="title5831">BPanScores</title>
+      <path
+         style="fill:#b66f2a;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="m 45.967525,22.074585 -15.261218,8.641894 c 0,0 -4.045142,8.090285 -0.55161,17.28379 3.493531,9.193505 9.928985,16.364439 9.928985,16.364439 0,0 -2.390311,-11.032206 -0.919351,-20.409581 1.470961,-9.377376 6.803194,-21.880542 6.803194,-21.880542 z"
+         id="path5807"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#b66f2a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 92.735321,22.042042 15.261219,8.641894 c 0,0 4.04514,8.090285 0.55161,17.28379 -3.49353,9.193505 -9.928986,16.364439 -9.928986,16.364439 0,0 2.390306,-11.032206 0.919351,-20.409581 -1.470961,-9.377376 -6.803194,-21.880542 -6.803194,-21.880542 z"
+         id="path5807-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#b66f2a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 68.951288,64.732448 c 0,0 -6.803194,-11.399946 -7.906415,-25.190204 -1.10322,-13.790257 -1.10322,-20.961191 -1.10322,-20.961191 l 16.732179,-1e-6 c 0,0 0,6.987065 -0.919351,20.961192 -0.91935,13.974128 -6.803193,25.190204 -6.803193,25.190204 z"
+         id="path5824"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccsc" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5779"
+       d="m 15.34877,70.156863 c 0,0 -3.67741,32.912747 54.42555,32.912747 58.10295,0 54.24168,-34.75145 54.24168,-34.75145 0,0 -0.36774,-50.196537 -55.71264,-50.012667 -55.3449,0.18387 -52.95459,51.85137 -52.95459,51.85137 z"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g5849">
+      <title
+         id="title5851">BPanLEye</title>
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.16490746;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5833"
+         cx="47.891762"
+         cy="76.685555"
+         r="10.75" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.00879431;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5835"
+         cx="48.732044"
+         cy="74.287231"
+         r="3.5" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,172.18255,24.638594)"
+       id="g5863">
+      <title
+         id="title5865">BPanRightEye</title>
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.16490746;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5833-2"
+         cx="81.862267"
+         cy="52.380608"
+         r="10.75" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.00879431;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5835-1"
+         cx="82.702553"
+         cy="49.982285"
+         r="3.5" />
+    </g>
+  </g>
+  <g
+     id="g5576"
+     transform="translate(-0.3677447,2.082235)">
+    <g
+       id="g5566">
+      <g
+         id="g5559">
+        <path
+           sodipodi:nodetypes="cscsssc"
+           inkscape:connector-curvature="0"
+           id="path4767-3"
+           d="m 4.4916279,55.183831 c 0,0 15.9248421,-17.558159 64.9243541,-18.374818 48.999498,-0.816658 65.740998,18.170653 65.740998,18.170653 0,0 -2.8583,-28.378884 -14.49569,-40.220433 C 109.02392,2.9176839 83.707506,0.6718729 68.803488,0.6718729 53.89947,0.6718729 29.936482,2.1743379 17.966494,14.759233 5.8943713,27.451509 4.4916279,55.183831 4.4916279,55.183831 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <title
+             id="title4769-3">CpanFront</title>
+        </path>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4771"
+           d="m 13.066536,21.292496 c 0,0 14.291524,-12.658207 17.353994,0 C 33.482999,33.950704 23.683097,44.3631 23.683097,44.3631 L 4.4916214,55.183826 c 0,0 4.899951,-29.195543 8.5749146,-33.89133 z"
+           style="fill:#9d4922;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="csssscc"
+           inkscape:connector-curvature="0"
+           id="path4773"
+           d="m 56.124981,37.706849 c 0,0 -7.413218,-9.305583 -2.633846,-18.864326 C 58.799415,8.2259638 67.170166,6.5926466 82.686678,8.0217986 98.20318,9.4509516 108.41142,17.005042 110.45306,26.804945 112.49471,36.604847 106.8402,42.116073 100.5111,39.257768 94.182,36.399463 78.257159,37.278225 78.257159,37.278225 Z"
+           style="fill:#9d4922;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cscsssc"
+       inkscape:connector-curvature="0"
+       id="path4767"
+       d="m 4.4916214,55.183826 c 0,0 15.9248416,-17.558155 64.9243536,-18.374814 48.999505,-0.816658 65.741005,18.170654 65.741005,18.170654 0,0 -2.8583,-28.378885 -14.49569,-40.220434 C 109.02391,2.9176828 83.707499,0.67187185 68.803481,0.67187185 53.899463,0.67187185 29.936475,2.1743368 17.966487,14.759232 5.8943654,27.451508 4.4916214,55.183826 4.4916214,55.183826 Z"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <title
+         id="title4769">Cpan Front</title>
+    </path>
+  </g>
+</svg>

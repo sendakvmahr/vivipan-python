@@ -7,6 +7,13 @@
 <style>
 img { object-fit: scale-down; }
 
+@font-face {
+  font-family: Arista;
+  src: url("../fonts/Arista2.0.ttf"); }
+  
+@font-face {
+  font-family: Latine;
+  src: url("../fonts/Latine.ttf"); }
 
 body {
     display: flex;
@@ -78,13 +85,17 @@ foot {
 
 <body>
     <header>
-		<img src="./images/panpan resized.png">
+		<img src="./images/panpan.svg">
 		<img src="./images/logo.png">
 	</header>
     <div id="content">
-        <div id="sidebar-left">left</div>
+        <div id="sidebar-left">
+			<h3>Recipes</h3>
+		</div>
             <div id="main-content">main</div>
-        <div id="sidebar-right">right</div>
+        <div id="sidebar-right">
+			<h3>Link</h3>
+		</div>
     </div>
     <foot>foot</foot>
 </body>
