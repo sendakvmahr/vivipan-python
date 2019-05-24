@@ -1,0 +1,70 @@
+header {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px; }
+  header img {
+    max-height: 100px; }
+
+img {
+  object-fit: scale-down; }
+
+@font-face {
+  font-family: Arista;
+  src: url("../fonts/Arista2.0.ttf"); }
+
+@font-face {
+  font-family: Latine;
+  src: url("../fonts/Latine.ttf"); }
+
+body {
+  display: flex;
+  flex-direction: column;
+  background: url("/static/images/sky.png"), url("/static/images/mountains.png"), #f0ae66;
+  background-position: top, bottom;
+  background-repeat: repeat-x, repeat-x; }
+
+#content {
+  background: grey;
+  display: flex;
+  width: 100%; }
+
+#sidebar-left {
+  background: blue;
+  flex-grow: 0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px; }
+
+#main-content {
+  background: white;
+  flex-grow: 1; }
+
+#sidebar-right {
+  background: green;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  flex-grow: 0; }
+
+foot {
+  background: pink;
+  width: 100%;
+  display: block; }
+
+foot {
+  position: absolute;
+  bottom: 0; }
+
+#content {
+  display: grid;
+  grid-template-columns: 10% 80%  10%;
+  grid-template-rows: 90px 100%;
+  min-height: 100%;
+  background: black;
+  border-radius: 30px;
+  border: 10px solid #5e2b0f;
+  width: calc(100% - 80px - 20px);
+  /*Margin *2, border * 2 */
+  margin: 40px; }
+
+#sidebar-right, #sidebar-left {
+  background: blue; }
